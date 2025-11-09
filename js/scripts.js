@@ -1,1 +1,1 @@
-document.querySelector("my-vid").defaultPlayRate = 2;
+document.querySelector("my-vid").defaultPlayRate = 0.5;
