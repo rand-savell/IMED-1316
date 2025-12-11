@@ -12,13 +12,13 @@
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #425461;
+--primaryColor: #ffffff;
 
 /* var(--secondaryColor) !important; */
 --secondaryColor: #1965fc;
 
 /* var(--accentColor) !important; */
---accentColor: #3A5555;
+--accentColor: #ffffff;
 
 /* var(--fontFamily) !important; */
 font-family: "SUSE Mono", sans-serif;
